@@ -6,12 +6,15 @@ This repository contains companion material related to implementations of TRUST 
   <img src="./logo.jpg" alt="TRUSTlogo" width="720">
 </p>
 
-## Repository Contents
+## Repository contents
 
 ### `./SysMLv2`
 
-The `./SysMLv2` directory contains:
+This directory contains companion material for the preliminary SysML v2 instantiation of TRUST. It includes:
 
-- an architectural diagram of the implemented workflow.
-- a GPT-5.5-generated test PDF specification for a fictitious embedded cinema amplifier with a Dolby 6+1-compatible architecture;
-- a set of SysMLv2 models produced from that specification by TRUST's SysMLv2 instantiation. These models were produced using Qwen-3.6 for document extraction agents, and GPT-5.5 Codex for model generation, refinement and consitency verification agents.
+* `implemented_workflow.svg`: the architectural diagram of the implemented SysML v2 workflow.
+* `system_spec_dolby.pdf`: a GPT-5.5-generated test specification for a fictitious embedded cinema amplifier with a Dolby 6+1-compatible architecture.
+* `model1.sysml` to `model5.sysml`: the five SysML v2 models generated from the specification by the TRUST SysML v2 instantiation.
+* `stats.ods`: detailed figures for the five runs reported in the paper.
+
+The models were produced using Qwen-3.6 for the document extraction agent and GPT-5.5 Codex for the model generation, refinement, and consistency checking agents.
