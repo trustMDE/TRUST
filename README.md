@@ -2,6 +2,10 @@
 
 This repository contains companion material related to implementations of TRUST instantiations.
 
+<p align="center">
+  <img src="./logo.jpg" alt="TRUSTlogo" width="720">
+</p>
+
 ## Repository Contents
 
 ### `./SysMLv2`
