@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2460" height="741.6847534179688" viewBox="0 0 2460 741.6847534179688">
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#b0bed4"/>
+    </pattern>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#5b9bd5"/>
+    </marker>
+    <marker id="arrowhead-back" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e67e22"/>
+    </marker>
+  </defs>
+  <rect width="2460" height="741.6847534179688" fill="#eef2f7"/>
+  <rect width="2460" height="741.6847534179688" fill="url(#dots)"/>
+  <g transform="translate(-320,-170.31524658203125)">
+    <path d="M 620.0000105728006 597.0000065199998 C 680.0000105728006 597.0000065199998, 600.0000251840006 597.0000065199998, 660.0000251840006 597.0000065199998" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 879.9999441984004 571.2812628399998 C 939.9999441984004 571.2812628399998, 860.0000663744004 597.0000065199998, 920.0000663744004 597.0000065199998" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 879.9999441984004 622.7031264127997 C 943.0572453362071 622.7031264127997, 856.9427652365937 757.0000380735996, 920.0000663744004 757.0000380735996" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1139.9999853888003 597.0000065199998 C 1199.9999853888003 597.0000065199998, 1120.0001075648001 597.0000065199998, 1180.0001075648001 597.0000065199998" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1400.0000265792 622.7031264127997 C 1572.7953446094632 622.7031264127997, 1029.9999183168004 347.2046953217367, 1029.9999183168004 520.0000133519999" fill="none" stroke="#e67e22" stroke-width="2" stroke-dasharray="8 4" marker-end="url(#arrowhead-back)"/>
+    <path d="M 1400.0000265792 571.2812628399998 C 1460.0000265792 571.2812628399998, 1379.9999336256 571.2812628399998, 1439.9999336256 571.2812628399998" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1139.9999853888003 757.0000380735996 C 1199.9999853888003 757.0000380735996, 1120.0001075648001 757.0000380735996, 1180.0001075648001 757.0000380735996" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1400.0000265792 782.7030772927997 C 1572.7953413728799 782.7030772927997, 1029.9999183168004 507.2046763295199, 1029.9999183168004 679.9999911231997" fill="none" stroke="#e67e22" stroke-width="2" stroke-dasharray="8 4" marker-end="url(#arrowhead-back)"/>
+    <path d="M 1400.0000265792 731.2812406111997 C 1460.0000265792 731.2812406111997, 1379.9999336256 622.7031264127997, 1439.9999336256 622.7031264127997" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1660.0000677695998 558.5000099359999 C 1737.3714219918925 558.5000099359999, 1622.6286205937072 391.28125087199993, 1699.9999748159998 391.28125087199993" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1660.0000677695998 635.5000031039998 C 1726.1703289123866 635.5000031039998, 1633.829713673213 776.9999915967996, 1699.9999748159998 776.9999915967996" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1660.0000677695998 597.0000065199998 C 1720.0000677695998 597.0000065199998, 1639.9999748159998 571.2812628399998, 1699.9999748159998 571.2812628399998" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1919.9998938303997 597.0000065199998 C 1979.9998938303997 597.0000065199998, 1900.0000160063998 711.2812333055997, 1960.0000160063998 711.2812333055997" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 1919.9998938303997 391.28125087199993 C 2088.1061966027028 391.28125087199993, 1791.8937132340966 762.7031237695996, 1960.0000160063998 762.7031237695996" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 2179.9999350207995 711.2812333055997 C 2239.9999350207995 711.2812333055997, 2160.0000571967994 776.9999915967996, 2220.0000571967994 776.9999915967996" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 2179.9999350207995 762.7031237695996 C 2274.3001994773026 762.7031237695996, 2125.6997927402963 557.0000187999998, 2220.0000571967994 557.0000187999998" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 2439.9999762111993 557.0000187999998 C 2499.9999762111993 557.0000187999998, 2419.9998832575993 557.0000187999998, 2479.9998832575993 557.0000187999998" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    <path d="M 2589.9999503295994 480.0000256319999 C 2589.9999503295994 321.50714074963753, 1810.000041888 181.50711650163763, 1810.000041888 340.000001384" fill="none" stroke="#e67e22" stroke-width="2" stroke-dasharray="8 4" marker-end="url(#arrowhead-back)"/>
+    <path d="M 2589.9999503295994 480.0000256319999 C 2589.9999503295994 323.7950505272992, 1810.000041888 363.7950382472992, 1810.000041888 520.0000133519999" fill="none" stroke="#e67e22" stroke-width="2" stroke-dasharray="8 4" marker-end="url(#arrowhead-back)"/>
+    <path d="M 2589.9999503295994 480.0000256319999 C 2589.9999503295994 363.00000709632, 2329.9999091391996 363.00000709632, 2329.9999091391996 480.0000256319999" fill="none" stroke="#e67e22" stroke-width="2" stroke-dasharray="8 4" marker-end="url(#arrowhead-back)"/>
+    <path d="M 1919.9998938303997 442.7031144447999 C 1979.9998938303997 442.7031144447999, 1900.0000160063998 547.0000151471999, 1960.0000160063998 547.0000151471999" fill="none" stroke="#5b9bd5" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+  <defs>
+    <clipPath id="clip-b31"><rect x="400" y="520" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="404" y="525" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="400" y="520" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b31)">
+    <rect x="400" y="520"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="400" y="557" width="220" height="75" fill="#27ae60"/>
+  </g>
+  <line x1="401" y1="557" x2="619" y2="557" stroke="#efefef" stroke-width="1"/>
+  <circle cx="410" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="410" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="410" cy="542.5" r="1.5" fill="#bbbbbb"/><circle cx="415" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="415" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="415" cy="542.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="461" y="567" width="98" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="510" y="579" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">DATAPROVIDER</text>
+  <text x="510" y="600.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">InitialSpecification</text>
+  <defs>
+    <clipPath id="clip-b32"><rect x="660" y="520" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="664" y="525" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="660" y="520" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b32)">
+    <rect x="660" y="520"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="660" y="557" width="220" height="75" fill="#2980b9"/>
+  </g>
+  <line x1="661" y1="557" x2="879" y2="557" stroke="#efefef" stroke-width="1"/>
+  <circle cx="670" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="670" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="670" cy="542.5" r="1.5" fill="#bbbbbb"/><circle cx="675" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="675" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="675" cy="542.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="724.5" y="567" width="91" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="770" y="579" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">AIPDFTOTEXT</text>
+  <text x="770" y="600.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">PdfParser</text>
+  <defs>
+    <clipPath id="clip-b33"><rect x="920" y="520" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="924" y="525" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="920" y="520" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b33)">
+    <rect x="920" y="520"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="920" y="557" width="220" height="75" fill="#8e44ad"/>
+  </g>
+  <line x1="921" y1="557" x2="1139" y2="557" stroke="#efefef" stroke-width="1"/>
+  <circle cx="930" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="930" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="930" cy="542.5" r="1.5" fill="#bbbbbb"/><circle cx="935" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="935" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="935" cy="542.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1012" y="567" width="36" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1030" y="579" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">AI</text>
+  <text x="1030" y="600.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">ReqGen</text>
+  <defs>
+    <clipPath id="clip-b34"><rect x="1180" y="520" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1184" y="525" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1180" y="520" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b34)">
+    <rect x="1180" y="520"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1180" y="557" width="220" height="75" fill="#3498db"/>
+  </g>
+  <line x1="1181" y1="557" x2="1399" y2="557" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1190" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="1190" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="1190" cy="542.5" r="1.5" fill="#bbbbbb"/><circle cx="1195" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="1195" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="1195" cy="542.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1258.5" y="567" width="63" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1290" y="579" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">CHECKER</text>
+  <text x="1290" y="600.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">ReqChecker</text>
+  <defs>
+    <clipPath id="clip-b35"><rect x="920" y="680" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="924" y="685" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="920" y="680" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b35)">
+    <rect x="920" y="680"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="920" y="717" width="220" height="75" fill="#8e44ad"/>
+  </g>
+  <line x1="921" y1="717" x2="1139" y2="717" stroke="#efefef" stroke-width="1"/>
+  <circle cx="930" cy="694.5" r="1.5" fill="#bbbbbb"/><circle cx="930" cy="698.5" r="1.5" fill="#bbbbbb"/><circle cx="930" cy="702.5" r="1.5" fill="#bbbbbb"/><circle cx="935" cy="694.5" r="1.5" fill="#bbbbbb"/><circle cx="935" cy="698.5" r="1.5" fill="#bbbbbb"/><circle cx="935" cy="702.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1012" y="727" width="36" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1030" y="739" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">AI</text>
+  <text x="1030" y="760.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">PartsGen</text>
+  <defs>
+    <clipPath id="clip-b36"><rect x="1180" y="680" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1184" y="685" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1180" y="680" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b36)">
+    <rect x="1180" y="680"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1180" y="717" width="220" height="75" fill="#3498db"/>
+  </g>
+  <line x1="1181" y1="717" x2="1399" y2="717" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1190" cy="694.5" r="1.5" fill="#bbbbbb"/><circle cx="1190" cy="698.5" r="1.5" fill="#bbbbbb"/><circle cx="1190" cy="702.5" r="1.5" fill="#bbbbbb"/><circle cx="1195" cy="694.5" r="1.5" fill="#bbbbbb"/><circle cx="1195" cy="698.5" r="1.5" fill="#bbbbbb"/><circle cx="1195" cy="702.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1258.5" y="727" width="63" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1290" y="739" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">CHECKER</text>
+  <text x="1290" y="760.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">PartsChecker</text>
+  <defs>
+    <clipPath id="clip-b37"><rect x="1440" y="520" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1444" y="525" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1440" y="520" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b37)">
+    <rect x="1440" y="520"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1440" y="557" width="220" height="75" fill="#16a085"/>
+  </g>
+  <line x1="1441" y1="557" x2="1659" y2="557" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1450" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="1450" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="1450" cy="542.5" r="1.5" fill="#bbbbbb"/><circle cx="1455" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="1455" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="1455" cy="542.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1501" y="567" width="98" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1550" y="579" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">DATAREWORKER</text>
+  <text x="1550" y="600.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">Merging</text>
+  <defs>
+    <clipPath id="clip-b38"><rect x="1700" y="340" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1704" y="345" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1700" y="340" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b38)">
+    <rect x="1700" y="340"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1700" y="377" width="220" height="75" fill="#8e44ad"/>
+  </g>
+  <line x1="1701" y1="377" x2="1919" y2="377" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1710" cy="354.5" r="1.5" fill="#bbbbbb"/><circle cx="1710" cy="358.5" r="1.5" fill="#bbbbbb"/><circle cx="1710" cy="362.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="354.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="358.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="362.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1792" y="387" width="36" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1810" y="399" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">AI</text>
+  <text x="1810" y="420.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">CoherencyAnalyzer</text>
+  <defs>
+    <clipPath id="clip-b39"><rect x="1700" y="520" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1704" y="525" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1700" y="520" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b39)">
+    <rect x="1700" y="520"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1700" y="557" width="220" height="75" fill="#16a085"/>
+  </g>
+  <line x1="1701" y1="557" x2="1919" y2="557" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1710" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="1710" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="1710" cy="542.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="534.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="538.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="542.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1761" y="567" width="98" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1810" y="579" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">DATAREWORKER</text>
+  <text x="1810" y="600.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">SpecificationSelector</text>
+  <defs>
+    <clipPath id="clip-b40"><rect x="1960" y="660" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1964" y="665" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1960" y="660" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b40)">
+    <rect x="1960" y="660"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1960" y="697" width="220" height="75" fill="#3498db"/>
+  </g>
+  <line x1="1961" y1="697" x2="2179" y2="697" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1970" cy="674.5" r="1.5" fill="#bbbbbb"/><circle cx="1970" cy="678.5" r="1.5" fill="#bbbbbb"/><circle cx="1970" cy="682.5" r="1.5" fill="#bbbbbb"/><circle cx="1975" cy="674.5" r="1.5" fill="#bbbbbb"/><circle cx="1975" cy="678.5" r="1.5" fill="#bbbbbb"/><circle cx="1975" cy="682.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="2038.5" y="707" width="63" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="2070" y="719" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">CHECKER</text>
+  <text x="2070" y="740.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">CoherencyChecker</text>
+  <defs>
+    <clipPath id="clip-b41"><rect x="2220" y="480" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="2224" y="485" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="2220" y="480" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b41)">
+    <rect x="2220" y="480"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="2220" y="517" width="220" height="75" fill="#8e44ad"/>
+  </g>
+  <line x1="2221" y1="517" x2="2439" y2="517" stroke="#efefef" stroke-width="1"/>
+  <circle cx="2230" cy="494.5" r="1.5" fill="#bbbbbb"/><circle cx="2230" cy="498.5" r="1.5" fill="#bbbbbb"/><circle cx="2230" cy="502.5" r="1.5" fill="#bbbbbb"/><circle cx="2235" cy="494.5" r="1.5" fill="#bbbbbb"/><circle cx="2235" cy="498.5" r="1.5" fill="#bbbbbb"/><circle cx="2235" cy="502.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="2312" y="527" width="36" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="2330" y="539" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">AI</text>
+  <text x="2330" y="560.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">IncoherencySolver</text>
+  <defs>
+    <clipPath id="clip-b42"><rect x="2480" y="480" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="2484" y="485" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="2480" y="480" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b42)">
+    <rect x="2480" y="480"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="2480" y="517" width="220" height="75" fill="#3498db"/>
+  </g>
+  <line x1="2481" y1="517" x2="2699" y2="517" stroke="#efefef" stroke-width="1"/>
+  <circle cx="2490" cy="494.5" r="1.5" fill="#bbbbbb"/><circle cx="2490" cy="498.5" r="1.5" fill="#bbbbbb"/><circle cx="2490" cy="502.5" r="1.5" fill="#bbbbbb"/><circle cx="2495" cy="494.5" r="1.5" fill="#bbbbbb"/><circle cx="2495" cy="498.5" r="1.5" fill="#bbbbbb"/><circle cx="2495" cy="502.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="2558.5" y="527" width="63" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="2590" y="539" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">CHECKER</text>
+  <text x="2590" y="560.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">FullSysMLv2Checker</text>
+  <defs>
+    <clipPath id="clip-b43"><rect x="2220" y="700" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="2224" y="705" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="2220" y="700" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b43)">
+    <rect x="2220" y="700"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="2220" y="737" width="220" height="75" fill="#2c3e50"/>
+  </g>
+  <line x1="2221" y1="737" x2="2439" y2="737" stroke="#efefef" stroke-width="1"/>
+  <circle cx="2230" cy="714.5" r="1.5" fill="#bbbbbb"/><circle cx="2230" cy="718.5" r="1.5" fill="#bbbbbb"/><circle cx="2230" cy="722.5" r="1.5" fill="#bbbbbb"/><circle cx="2235" cy="714.5" r="1.5" fill="#bbbbbb"/><circle cx="2235" cy="718.5" r="1.5" fill="#bbbbbb"/><circle cx="2235" cy="722.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="2281" y="747" width="98" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="2330" y="759" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">DATARECEIVER</text>
+  <text x="2330" y="780.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">FinalModel</text>
+  <defs>
+    <clipPath id="clip-b44"><rect x="1700" y="700" width="220" height="112" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1704" y="705" width="220" height="112" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1700" y="700" width="220" height="112" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b44)">
+    <rect x="1700" y="700"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1700" y="737" width="220" height="75" fill="#2c3e50"/>
+  </g>
+  <line x1="1701" y1="737" x2="1919" y2="737" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1710" cy="714.5" r="1.5" fill="#bbbbbb"/><circle cx="1710" cy="718.5" r="1.5" fill="#bbbbbb"/><circle cx="1710" cy="722.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="714.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="718.5" r="1.5" fill="#bbbbbb"/><circle cx="1715" cy="722.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="1761" y="747" width="98" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="1810" y="759" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">DATARECEIVER</text>
+  <text x="1810" y="780.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">IntermediateModel</text>
+  <defs>
+    <clipPath id="clip-b45"><rect x="1960" y="460" width="220" height="132" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="1964" y="465" width="220" height="132" rx="14" ry="14" fill="#000000" fill-opacity="0.08"/>
+  <rect x="1960" y="460" width="220" height="132" rx="14" ry="14" fill="white" stroke="#5b9bd5" stroke-width="2"/>
+  <g clip-path="url(#clip-b45)">
+    <rect x="1960" y="460"    width="220" height="37" fill="#000000" fill-opacity="0.03"/>
+    <rect x="1960" y="497" width="220" height="95" fill="#2c3e50"/>
+  </g>
+  <line x1="1961" y1="497" x2="2179" y2="497" stroke="#efefef" stroke-width="1"/>
+  <circle cx="1970" cy="474.5" r="1.5" fill="#bbbbbb"/><circle cx="1970" cy="478.5" r="1.5" fill="#bbbbbb"/><circle cx="1970" cy="482.5" r="1.5" fill="#bbbbbb"/><circle cx="1975" cy="474.5" r="1.5" fill="#bbbbbb"/><circle cx="1975" cy="478.5" r="1.5" fill="#bbbbbb"/><circle cx="1975" cy="482.5" r="1.5" fill="#bbbbbb"/>
+  <rect x="2021" y="507" width="98" height="16" rx="4" ry="4" fill="#000000" fill-opacity="0.22"/>
+  <text x="2070" y="519" font-size="9" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.6" font-family="sans-serif">DATARECEIVER</text>
+  <text x="2070" y="550.5" font-size="15" font-weight="bold" fill="white" text-anchor="middle" font-family="sans-serif">ModelWithIncoherencies</text>
+  </g>
+</svg>
